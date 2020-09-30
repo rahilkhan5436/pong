@@ -1,2 +1,2 @@
-# pong
-a game to develope by all.
+# ping pong game
+It is a game which is developed using python turtle module.
